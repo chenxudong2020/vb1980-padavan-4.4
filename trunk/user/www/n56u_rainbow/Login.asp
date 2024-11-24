@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Padavan Authorization</title>
+  <title>Padavan 认证</title>
   <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="login/login.css">
   <script type="text/javascript" src="jquery.js"></script>
@@ -1180,13 +1180,13 @@ void main(void) {
 </script>
   <div class="login-box">
     <img src="images/favicon.png" class="avatar" alt="Avatar Image">
-    <h1>Padavan Authorization</h1>
+    <h1>Padavan 认证</h1>
     <form>
-      <label for="user">Username</label>
+      <label for="user">用户名</label>
       <input id="user" type="text" placeholder="Enter Username">
-      <label for="pwd">Password</label>
+      <label for="pwd">密码</label>
       <input id="pwd" type="password" placeholder="Enter Password">
-      <label>Theme<div class="btn-group theme pull-right"><button type="button"
+      <label>主题<div class="btn-group theme pull-right"><button type="button"
             class="btn btn-mini dropdown-toggle" data-toggle="dropdown"><i class="if if-arrow-down"></i></button>
           <ul class="dropdown-menu" role="menu">
             <li class="red"><a href="#"></a></li>
@@ -1199,7 +1199,7 @@ void main(void) {
           </ul>
         </div></label>
 
-      <input id="signin" type="submit" value="Sign In">
+      <input id="signin" type="submit" value="登录">
     </form>
     <div class="login-footer">Powered by <a href="https://github.com/vb1980" target="blank">vb1980</a></div>
   </div>
