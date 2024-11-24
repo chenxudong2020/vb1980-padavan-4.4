@@ -1183,9 +1183,9 @@ void main(void) {
     <h1>Padavan 认证</h1>
     <form>
       <label for="user">用户名</label>
-      <input id="user" type="text" placeholder="Enter Username">
+      <input id="user" type="text" placeholder="输入用户名">
       <label for="pwd">密码</label>
-      <input id="pwd" type="password" placeholder="Enter Password">
+      <input id="pwd" type="password" placeholder="输入密码">
       <label>主题<div class="btn-group theme pull-right"><button type="button"
             class="btn btn-mini dropdown-toggle" data-toggle="dropdown"><i class="if if-arrow-down"></i></button>
           <ul class="dropdown-menu" role="menu">
